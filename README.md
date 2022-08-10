@@ -8,7 +8,7 @@
   <img align="center" alt="Glauber-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Glauber-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Glauber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Glauber-pic" height="150" style="border-radius:50px;" src="https://drive.google.com/drive/folders/1jbwxrAInSL8MSbdB3iPEuL-RMfCjVk0J">
+  <img align="right" alt="Glauber-pic" height="150" style="border-radius:50px;" href="https://drive.google.com/drive/folders/1jbwxrAInSL8MSbdB3iPEuL-RMfCjVk0J">
 </div>
   
   ##
